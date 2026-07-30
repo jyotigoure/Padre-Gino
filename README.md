@@ -37,6 +37,4 @@ npm test         # run tests in watch mode
 
 Import the repository into Vercel and keep the root directory set to the repository root. Vercel detects Vite and runs `npm run build`. The included `vercel.json` supports direct navigation to client-side routes.
 
-## Maintainer
 
-jyotigoure <rohitchouhanilu143@gmail.com>
